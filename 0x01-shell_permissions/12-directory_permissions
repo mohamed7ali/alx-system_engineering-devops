@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 751 my_dir[D[D[D[D[D[D[D[D[D[D 7[D[D-m751 my_dir[D[D[D[D[D[D[D[D[D[D 751 my_dir[F
+mkdir -m 751 my_dir
